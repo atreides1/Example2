@@ -1,0 +1,13 @@
+@font-face { font-family: ArtBrewery; src: url('Art Brewery.ttf'); }
+
+body {
+  background-color: black;
+  max-width: 600px;
+  margin: 0 auto;
+  font-family: ArtBrewery, cursive;
+  color: '#929698';
+}
+
+p {
+  position: center;
+}
